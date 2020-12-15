@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#EE7FDB ;   
+    background-size:100% 100% ;
+    background-attachment:fixed;
+}
